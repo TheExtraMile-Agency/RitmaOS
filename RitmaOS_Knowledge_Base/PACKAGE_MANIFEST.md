@@ -1,0 +1,26 @@
+# Package Manifest
+
+- `00_SOURCE_OF_TRUTH/00_SOURCE_OF_TRUTH.md` — 2295 bytes
+- `00_SOURCE_OF_TRUTH/01_RESEARCH_NOTES.md` — 2956 bytes
+- `00_SOURCE_OF_TRUTH/02_PRODUCT_THESIS.md` — 1803 bytes
+- `00_SOURCE_OF_TRUTH/03_TARGET_CUSTOMER.md` — 1665 bytes
+- `00_SOURCE_OF_TRUTH/04_FEATURES.md` — 1998 bytes
+- `00_SOURCE_OF_TRUTH/05_MVP_SPEC.md` — 2445 bytes
+- `00_SOURCE_OF_TRUTH/06_BUSINESS_MODEL.md` — 1953 bytes
+- `00_SOURCE_OF_TRUTH/07_TERMINOLOGY.md` — 1573 bytes
+- `00_SOURCE_OF_TRUTH/08_OPEN_QUESTIONS.md` — 1710 bytes
+- `00_SOURCE_OF_TRUTH/README.md` — 600 bytes
+- `01_RAW_MODULES/00_RAW_MODULES_INDEX.md` — 843 bytes
+- `01_RAW_MODULES/1.2-your-first-folder.md` — 4945 bytes
+- `01_RAW_MODULES/1.3-how-to-structure-any-prompt.md` — 9757 bytes
+- `01_RAW_MODULES/2.1-video-text-guide-series-overview.md` — 9476 bytes
+- `01_RAW_MODULES/2.2-one-line-of-python-triggers-12k-lines-of-code.md` — 11912 bytes
+- `01_RAW_MODULES/2.3-how-a-1953-word-game-explains-ai-memory.md` — 4945 bytes
+- `01_RAW_MODULES/2.4-the-ladder-that-explains-every-ai-failure.md` — 8644 bytes
+- `01_RAW_MODULES/2.5-clawdbot-moltbot-has-100k-stars-zero-ai.md` — 8885 bytes
+- `01_RAW_MODULES/2.6-video-as-code-my-ai-animation-stack.md` — 12776 bytes
+- `01_RAW_MODULES/2.7-from-nazi-psychology-to-ai-auditing.md` — 13660 bytes
+- `02_EXTRACTED_FRAMEWORKS/01_CORE_FRAMEWORKS.md` — 2456 bytes
+- `02_EXTRACTED_FRAMEWORKS/02_RITMAOS_MAPPING.md` — 1139 bytes
+- `03_PRODUCT_SPEC_DRAFTS/01_PRODUCT_SPEC_DRAFT.md` — 2213 bytes
+- `README.md` — 795 bytes
