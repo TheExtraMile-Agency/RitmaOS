@@ -13,5 +13,6 @@ This folder preserves raw module text. Do not edit, rewrite, summarize, rename, 
 | 2.5 | Orchestration vs Intelligence | `2.5-clawdbot-moltbot-has-100k-stars-zero-ai.md` | Present |
 | 2.6 | Video as Code / AI Animation Stack | `2.6-video-as-code-my-ai-animation-stack.md` | Present |
 | 2.7 | Ethics Engine / AI Auditing | `2.7-from-nazi-psychology-to-ai-auditing.md` | Present |
+| 3.1 | The Full Walkthrough / Folder Architecture | `3.1-the-full-walkthrough-folder-architecture.md` | Present |
 
 No expected raw modules are currently marked missing.

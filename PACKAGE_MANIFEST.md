@@ -33,11 +33,13 @@ This manifest is generated from the repository file tree. It lists the purpose o
 | `02_RAW_MODULES/2.5-clawdbot-moltbot-has-100k-stars-zero-ai.md` | File | Raw module source file; preserve exactly. |
 | `02_RAW_MODULES/2.6-video-as-code-my-ai-animation-stack.md` | File | Raw module source file; preserve exactly. |
 | `02_RAW_MODULES/2.7-from-nazi-psychology-to-ai-auditing.md` | File | Raw module source file; preserve exactly. |
+| `02_RAW_MODULES/3.1-the-full-walkthrough-folder-architecture.md` | File | Raw module source file; preserve exactly. |
 | `02_RAW_MODULES/README.md` | File | Raw module operating documentation. |
 | `03_EXTRACTED_FRAMEWORKS/` | Folder | Frameworks interpreted from raw source material. |
 | `03_EXTRACTED_FRAMEWORKS/00_FRAMEWORKS_INDEX.md` | File | Repository file. |
 | `03_EXTRACTED_FRAMEWORKS/01_CORE_FRAMEWORKS.md` | File | Repository file. |
 | `03_EXTRACTED_FRAMEWORKS/02_RITMAOS_MAPPING.md` | File | Repository file. |
+| `03_EXTRACTED_FRAMEWORKS/03_MODULE_3_1_FOLDER_ARCHITECTURE.md` | File | Repository file. |
 | `03_EXTRACTED_FRAMEWORKS/README.md` | File | Repository file. |
 | `04_PRODUCT_SPEC_DRAFTS/` | Folder | Draft product specs, service specs, and roadmap notes. |
 | `04_PRODUCT_SPEC_DRAFTS/00_SPEC_INDEX.md` | File | Repository file. |
@@ -45,6 +47,7 @@ This manifest is generated from the repository file tree. It lists the purpose o
 | `04_PRODUCT_SPEC_DRAFTS/02_MVP_WORKSPACE_GENERATOR_SPEC.md` | File | Repository file. |
 | `04_PRODUCT_SPEC_DRAFTS/03_SERVICE_OFFER_SPEC.md` | File | Repository file. |
 | `04_PRODUCT_SPEC_DRAFTS/04_PRODUCTIZATION_ROADMAP.md` | File | Repository file. |
+| `04_PRODUCT_SPEC_DRAFTS/05_MODULE_3_1_PRODUCT_IMPLICATIONS.md` | File | Repository file. |
 | `04_PRODUCT_SPEC_DRAFTS/README.md` | File | Repository file. |
 | `05_NEW_MODULES_INBOX/` | Folder | Inbox for newly collected raw module text before review. |
 | `05_NEW_MODULES_INBOX/README.md` | File | Repository file. |
@@ -52,6 +55,7 @@ This manifest is generated from the repository file tree. It lists the purpose o
 | `06_DECISIONS_LOG/DECISIONS.md` | File | Repository file. |
 | `06_DECISIONS_LOG/README.md` | File | Repository file. |
 | `07_SYNTHESIS_QUEUE/` | Folder | Pending questions, unresolved ideas, and synthesis work. |
+| `07_SYNTHESIS_QUEUE/3.1-synthesis-questions.md` | File | Repository file. |
 | `07_SYNTHESIS_QUEUE/MODULES_TO_PROCESS.md` | File | Repository file. |
 | `07_SYNTHESIS_QUEUE/QUESTIONS_FOR_SYNTHESIS.md` | File | Repository file. |
 | `07_SYNTHESIS_QUEUE/README.md` | File | Repository file. |

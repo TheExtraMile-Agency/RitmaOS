@@ -11,3 +11,4 @@
 | 2.5 Orchestration vs Intelligence | Yes | Yes | Partial | Yes | Stored filename is `2.5-clawdbot-moltbot-has-100k-stars-zero-ai.md`. |
 | 2.6 Video as Code / AI Animation Stack | Yes | Yes | Partial | Yes | Raw file is stored in `02_RAW_MODULES/`. |
 | 2.7 Ethics Engine / AI Auditing | Yes | Yes | Partial | Yes | Raw file is stored in `02_RAW_MODULES/`. |
+| 3.1 The Full Walkthrough / Folder Architecture | Yes | Yes | Drafted | No | Raw file stored; framework, product implications, and synthesis questions drafted. |

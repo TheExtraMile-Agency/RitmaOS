@@ -61,6 +61,7 @@ RAW_MODULE_FILES = [
     "02_RAW_MODULES/2.5-clawdbot-moltbot-has-100k-stars-zero-ai.md",
     "02_RAW_MODULES/2.6-video-as-code-my-ai-animation-stack.md",
     "02_RAW_MODULES/2.7-from-nazi-psychology-to-ai-auditing.md",
+    "02_RAW_MODULES/3.1-the-full-walkthrough-folder-architecture.md",
 ]
 
 
