@@ -7,41 +7,25 @@ IGNORED_NAMES = {".git", "__pycache__", ".DS_Store", ".venv", "node_modules"}
 
 DESCRIPTIONS = {
     ".gitignore": "Repository-local ignore rules for generated, local, and dependency files.",
-    "README.md": "Root overview for the RitmaOS research knowledge base and workflow.",
+    "README.md": "Root overview for the RitmaOS research and product-development operating system.",
     "AGENTS.md": "Operating instructions for AI coding and research agents.",
     "PACKAGE_MANIFEST.md": "Generated inventory of folders and files in this repository.",
-    "04_NEW_MODULES_INBOX/": "Inbox for newly collected raw module text before review.",
-    "04_NEW_MODULES_INBOX/README.md": "Instructions for adding new raw module text.",
-    "05_DECISIONS_LOG/": "Durable decisions separated from working assumptions.",
-    "05_DECISIONS_LOG/DECISIONS.md": "Decision log for repository and product-development decisions.",
-    "07_SYNTHESIS_QUEUE/": "Queue for unresolved questions and pending synthesis work.",
-    "07_SYNTHESIS_QUEUE/README.md": "Instructions for tracking pending synthesis work.",
-    "07_SYNTHESIS_QUEUE/MODULES_TO_PROCESS.md": "Tracking table for module processing status.",
-    "07_SYNTHESIS_QUEUE/QUESTIONS_FOR_SYNTHESIS.md": "Starter questions for future product and research synthesis.",
-    "scripts/": "Small repository maintenance scripts.",
+    "00_START_HERE/": "Entry point for humans and AI agents.",
+    "01_SOURCE_OF_TRUTH/": "Condensed working research and product assumptions.",
+    "02_RAW_MODULES/": "Immutable raw module source files.",
+    "03_EXTRACTED_FRAMEWORKS/": "Frameworks interpreted from raw source material.",
+    "04_PRODUCT_SPEC_DRAFTS/": "Draft product specs, service specs, and roadmap notes.",
+    "05_NEW_MODULES_INBOX/": "Inbox for newly collected raw module text before review.",
+    "06_DECISIONS_LOG/": "Durable decisions separated from drafts and assumptions.",
+    "07_SYNTHESIS_QUEUE/": "Pending questions, unresolved ideas, and synthesis work.",
+    "08_WORKSPACE_ARCHITECTURE/": "Working architecture notes for filesystem-based orchestration.",
+    "09_TEMPLATES/": "Reusable templates and a starter RitmaOS workspace skeleton.",
+    "10_OPERATIONS/": "Human and AI operating workflows for maintaining the repository.",
+    "scripts/": "Repository maintenance scripts.",
+    "scripts/init_module.py": "Creates a new raw-module inbox file.",
     "scripts/update_manifest.py": "Regenerates this manifest from the repository file tree.",
-    "scripts/init_module.py": "Creates a new inbox markdown file for raw module intake.",
-    "RitmaOS_Knowledge_Base/": "Original nested knowledge-base package; keep structure unless flattening is approved.",
-    "RitmaOS_Knowledge_Base/README.md": "Original package-level overview.",
-    "RitmaOS_Knowledge_Base/PACKAGE_MANIFEST.md": "Original package manifest from the nested knowledge-base bundle.",
-    "RitmaOS_Knowledge_Base/00_SOURCE_OF_TRUTH/": "Condensed product-facing research drafts and working assumptions.",
-    "RitmaOS_Knowledge_Base/00_SOURCE_OF_TRUTH/README.md": "Overview for the source-of-truth draft layer.",
-    "RitmaOS_Knowledge_Base/00_SOURCE_OF_TRUTH/00_SOURCE_OF_TRUTH.md": "Top-level source-of-truth draft.",
-    "RitmaOS_Knowledge_Base/00_SOURCE_OF_TRUTH/01_RESEARCH_NOTES.md": "Research notes derived from collected material.",
-    "RitmaOS_Knowledge_Base/00_SOURCE_OF_TRUTH/02_PRODUCT_THESIS.md": "Working product thesis.",
-    "RitmaOS_Knowledge_Base/00_SOURCE_OF_TRUTH/03_TARGET_CUSTOMER.md": "Working target-customer notes.",
-    "RitmaOS_Knowledge_Base/00_SOURCE_OF_TRUTH/04_FEATURES.md": "Working feature notes.",
-    "RitmaOS_Knowledge_Base/00_SOURCE_OF_TRUTH/05_MVP_SPEC.md": "Working MVP specification notes.",
-    "RitmaOS_Knowledge_Base/00_SOURCE_OF_TRUTH/06_BUSINESS_MODEL.md": "Working business-model notes.",
-    "RitmaOS_Knowledge_Base/00_SOURCE_OF_TRUTH/07_TERMINOLOGY.md": "Terminology notes.",
-    "RitmaOS_Knowledge_Base/00_SOURCE_OF_TRUTH/08_OPEN_QUESTIONS.md": "Open research and product questions.",
-    "RitmaOS_Knowledge_Base/01_RAW_MODULES/": "Raw source module layer; preserve files exactly.",
-    "RitmaOS_Knowledge_Base/01_RAW_MODULES/00_RAW_MODULES_INDEX.md": "Index of raw modules currently stored.",
-    "RitmaOS_Knowledge_Base/02_EXTRACTED_FRAMEWORKS/": "Frameworks extracted from raw modules.",
-    "RitmaOS_Knowledge_Base/02_EXTRACTED_FRAMEWORKS/01_CORE_FRAMEWORKS.md": "Core extracted frameworks.",
-    "RitmaOS_Knowledge_Base/02_EXTRACTED_FRAMEWORKS/02_RITMAOS_MAPPING.md": "Mapping from extracted frameworks to RitmaOS.",
-    "RitmaOS_Knowledge_Base/03_PRODUCT_SPEC_DRAFTS/": "Early product-spec draft layer.",
-    "RitmaOS_Knowledge_Base/03_PRODUCT_SPEC_DRAFTS/01_PRODUCT_SPEC_DRAFT.md": "Initial product-spec draft.",
+    "scripts/validate_repo.py": "Checks required repository architecture and prints warnings.",
+    "RitmaOS_Knowledge_Base/": "Legacy package metadata folder retained because it still contains files.",
 }
 
 
@@ -53,8 +37,10 @@ def description_for(relative_path: str, is_dir: bool) -> str:
     key = f"{relative_path}/" if is_dir else relative_path
     if key in DESCRIPTIONS:
         return DESCRIPTIONS[key]
-    if relative_path.startswith("RitmaOS_Knowledge_Base/01_RAW_MODULES/"):
-        return "Raw module source file; preserve exactly."
+    if relative_path.startswith("02_RAW_MODULES/") and relative_path.endswith(".md"):
+        return "Raw module source or raw-module index; preserve source files exactly."
+    if relative_path.startswith("09_TEMPLATES/workspace-template/"):
+        return "Starter workspace template asset."
     return "Repository file."
 
 

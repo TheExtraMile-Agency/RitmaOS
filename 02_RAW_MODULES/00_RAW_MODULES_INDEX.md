@@ -15,10 +15,3 @@ This folder preserves raw module text. Do not edit, rewrite, summarize, rename, 
 | 2.7 | Ethics Engine / AI Auditing | `2.7-from-nazi-psychology-to-ai-auditing.md` | Present |
 
 No expected raw modules are currently marked missing.
-
-Notes:
-
-- `RitmaOS_Knowledge_Base/00_SOURCE_OF_TRUTH/` contains condensed product-facing drafts.
-- `RitmaOS_Knowledge_Base/01_RAW_MODULES/` contains the raw source layer.
-- `RitmaOS_Knowledge_Base/02_EXTRACTED_FRAMEWORKS/` contains extracted frameworks and RitmaOS mapping.
-- `RitmaOS_Knowledge_Base/03_PRODUCT_SPEC_DRAFTS/` contains early product spec drafts.
