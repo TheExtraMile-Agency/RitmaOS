@@ -28,3 +28,13 @@ See `3.2-synthesis-questions.md` for the full Module 3.2 synthesis queue.
 - How many starter workspaces should the MVP create by default?
 - How should RitmaOS prevent context bleed between clients, projects, or work modes?
 - How much customization should happen during onboarding versus after the first real use?
+
+## Module 3.3 Questions
+
+See `3.3-synthesis-questions.md` for the full Module 3.3 synthesis queue.
+
+- Should RitmaOS include an automated workspace health checker?
+- What should the first validation rules be?
+- Should CLAUDE.md have a recommended line limit, token limit, or both?
+- Should context files include a required `Last updated` field?
+- Should workspace validation be a CLI command, a UI feature, or both?

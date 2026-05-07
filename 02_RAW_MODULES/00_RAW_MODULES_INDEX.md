@@ -15,5 +15,6 @@ This folder preserves raw module text. Do not edit, rewrite, summarize, rename, 
 | 2.7 | Ethics Engine / AI Auditing | `2.7-from-nazi-psychology-to-ai-auditing.md` | Present |
 | 3.1 | The Full Walkthrough / Folder Architecture | `3.1-the-full-walkthrough-folder-architecture.md` | Present |
 | 3.2 | Customizing for Your Use Case | `3.2-customizing-for-your-use-case.md` | Present |
+| 3.3 | Common Mistakes and How to Fix Them | `3.3-common-mistakes-and-how-to-fix-them.md` | Present |
 
 No expected raw modules are currently marked missing.

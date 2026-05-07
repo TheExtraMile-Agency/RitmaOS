@@ -13,3 +13,4 @@
 | 2.7 Ethics Engine / AI Auditing | Yes | Yes | Partial | Yes | Raw file is stored in `02_RAW_MODULES/`. |
 | 3.1 The Full Walkthrough / Folder Architecture | Yes | Yes | Drafted | No | Raw file stored; framework, product implications, and synthesis questions drafted. |
 | 3.2 Customizing for Your Use Case | Yes | Yes | Drafted | No | Raw file stored; framework, product implications, and synthesis questions drafted. |
+| 3.3 Common Mistakes and How to Fix Them | Yes | Yes | Drafted | No | Raw file stored; framework, product implications, and synthesis questions drafted. |

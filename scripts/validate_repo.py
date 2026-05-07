@@ -63,6 +63,7 @@ RAW_MODULE_FILES = [
     "02_RAW_MODULES/2.7-from-nazi-psychology-to-ai-auditing.md",
     "02_RAW_MODULES/3.1-the-full-walkthrough-folder-architecture.md",
     "02_RAW_MODULES/3.2-customizing-for-your-use-case.md",
+    "02_RAW_MODULES/3.3-common-mistakes-and-how-to-fix-them.md",
 ]
 
 
