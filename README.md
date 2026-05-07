@@ -55,6 +55,15 @@ Files in `02_RAW_MODULES/` are immutable source material. Do not rewrite, summar
 
 Use `06_DECISIONS_LOG/DECISIONS.md` for decisions that should survive across sessions. Product drafts are not decisions until they are recorded there.
 
-## Legacy Note
+## Architecture v2 Note
 
-The previous nested package folder `RitmaOS_Knowledge_Base/` may remain temporarily if it still contains legacy package metadata. Do not delete it unless it is empty or the owner explicitly approves removing those legacy files.
+This repository previously used a nested `RitmaOS_Knowledge_Base/` folder.
+
+As of architecture v2, the repo has been flattened:
+
+- `01_SOURCE_OF_TRUTH/`
+- `02_RAW_MODULES/`
+- `03_EXTRACTED_FRAMEWORKS/`
+- `04_PRODUCT_SPEC_DRAFTS/`
+
+Raw module files were moved without modifying their contents.
