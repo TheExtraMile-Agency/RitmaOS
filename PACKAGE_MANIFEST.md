@@ -23,17 +23,17 @@ This manifest is generated from the repository file tree. It lists the purpose o
 | `01_SOURCE_OF_TRUTH/08_OPEN_QUESTIONS.md` | File | Repository file. |
 | `01_SOURCE_OF_TRUTH/README.md` | File | Repository file. |
 | `02_RAW_MODULES/` | Folder | Immutable raw module source files. |
-| `02_RAW_MODULES/00_RAW_MODULES_INDEX.md` | File | Raw module source or raw-module index; preserve source files exactly. |
-| `02_RAW_MODULES/1.2-your-first-folder.md` | File | Raw module source or raw-module index; preserve source files exactly. |
-| `02_RAW_MODULES/1.3-how-to-structure-any-prompt.md` | File | Raw module source or raw-module index; preserve source files exactly. |
-| `02_RAW_MODULES/2.1-video-text-guide-series-overview.md` | File | Raw module source or raw-module index; preserve source files exactly. |
-| `02_RAW_MODULES/2.2-one-line-of-python-triggers-12k-lines-of-code.md` | File | Raw module source or raw-module index; preserve source files exactly. |
-| `02_RAW_MODULES/2.3-how-a-1953-word-game-explains-ai-memory.md` | File | Raw module source or raw-module index; preserve source files exactly. |
-| `02_RAW_MODULES/2.4-the-ladder-that-explains-every-ai-failure.md` | File | Raw module source or raw-module index; preserve source files exactly. |
-| `02_RAW_MODULES/2.5-clawdbot-moltbot-has-100k-stars-zero-ai.md` | File | Raw module source or raw-module index; preserve source files exactly. |
-| `02_RAW_MODULES/2.6-video-as-code-my-ai-animation-stack.md` | File | Raw module source or raw-module index; preserve source files exactly. |
-| `02_RAW_MODULES/2.7-from-nazi-psychology-to-ai-auditing.md` | File | Raw module source or raw-module index; preserve source files exactly. |
-| `02_RAW_MODULES/README.md` | File | Raw module source or raw-module index; preserve source files exactly. |
+| `02_RAW_MODULES/00_RAW_MODULES_INDEX.md` | File | Raw module operating documentation. |
+| `02_RAW_MODULES/1.2-your-first-folder.md` | File | Raw module source file; preserve exactly. |
+| `02_RAW_MODULES/1.3-how-to-structure-any-prompt.md` | File | Raw module source file; preserve exactly. |
+| `02_RAW_MODULES/2.1-video-text-guide-series-overview.md` | File | Raw module source file; preserve exactly. |
+| `02_RAW_MODULES/2.2-one-line-of-python-triggers-12k-lines-of-code.md` | File | Raw module source file; preserve exactly. |
+| `02_RAW_MODULES/2.3-how-a-1953-word-game-explains-ai-memory.md` | File | Raw module source file; preserve exactly. |
+| `02_RAW_MODULES/2.4-the-ladder-that-explains-every-ai-failure.md` | File | Raw module source file; preserve exactly. |
+| `02_RAW_MODULES/2.5-clawdbot-moltbot-has-100k-stars-zero-ai.md` | File | Raw module source file; preserve exactly. |
+| `02_RAW_MODULES/2.6-video-as-code-my-ai-animation-stack.md` | File | Raw module source file; preserve exactly. |
+| `02_RAW_MODULES/2.7-from-nazi-psychology-to-ai-auditing.md` | File | Raw module source file; preserve exactly. |
+| `02_RAW_MODULES/README.md` | File | Raw module operating documentation. |
 | `03_EXTRACTED_FRAMEWORKS/` | Folder | Frameworks interpreted from raw source material. |
 | `03_EXTRACTED_FRAMEWORKS/00_FRAMEWORKS_INDEX.md` | File | Repository file. |
 | `03_EXTRACTED_FRAMEWORKS/01_CORE_FRAMEWORKS.md` | File | Repository file. |
@@ -124,9 +124,6 @@ This manifest is generated from the repository file tree. It lists the purpose o
 | `AGENTS.md` | File | Operating instructions for AI coding and research agents. |
 | `PACKAGE_MANIFEST.md` | File | Generated inventory of folders and files in this repository. |
 | `README.md` | File | Root overview for the RitmaOS research and product-development operating system. |
-| `RitmaOS_Knowledge_Base/` | Folder | Legacy package metadata folder retained because it still contains files. |
-| `RitmaOS_Knowledge_Base/PACKAGE_MANIFEST.md` | File | Repository file. |
-| `RitmaOS_Knowledge_Base/README.md` | File | Repository file. |
 | `scripts/` | Folder | Repository maintenance scripts. |
 | `scripts/init_module.py` | File | Creates a new raw-module inbox file. |
 | `scripts/update_manifest.py` | File | Regenerates this manifest from the repository file tree. |

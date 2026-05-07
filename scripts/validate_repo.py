@@ -16,6 +16,17 @@ REQUIRED_FOLDERS = [
     "09_TEMPLATES",
     "10_OPERATIONS",
     "scripts",
+    "09_TEMPLATES/workspace-template",
+    "09_TEMPLATES/workspace-template/stages/01-intake",
+    "09_TEMPLATES/workspace-template/stages/02-analysis",
+    "09_TEMPLATES/workspace-template/stages/03-draft",
+    "09_TEMPLATES/workspace-template/stages/04-review",
+    "09_TEMPLATES/workspace-template/stages/05-delivery",
+    "09_TEMPLATES/workspace-template/shared",
+    "09_TEMPLATES/workspace-template/skills",
+    "09_TEMPLATES/workspace-template/memory",
+    "09_TEMPLATES/workspace-template/review",
+    "09_TEMPLATES/workspace-template/outputs",
 ]
 
 REQUIRED_FILES = [
@@ -34,6 +45,22 @@ REQUIRED_FILES = [
     "scripts/init_module.py",
     "scripts/update_manifest.py",
     "scripts/validate_repo.py",
+    "09_TEMPLATES/module-template.md",
+    "09_TEMPLATES/framework-template.md",
+    "09_TEMPLATES/decision-template.md",
+    "09_TEMPLATES/product-spec-template.md",
+]
+
+RAW_MODULE_FILES = [
+    "02_RAW_MODULES/1.2-your-first-folder.md",
+    "02_RAW_MODULES/1.3-how-to-structure-any-prompt.md",
+    "02_RAW_MODULES/2.1-video-text-guide-series-overview.md",
+    "02_RAW_MODULES/2.2-one-line-of-python-triggers-12k-lines-of-code.md",
+    "02_RAW_MODULES/2.3-how-a-1953-word-game-explains-ai-memory.md",
+    "02_RAW_MODULES/2.4-the-ladder-that-explains-every-ai-failure.md",
+    "02_RAW_MODULES/2.5-clawdbot-moltbot-has-100k-stars-zero-ai.md",
+    "02_RAW_MODULES/2.6-video-as-code-my-ai-animation-stack.md",
+    "02_RAW_MODULES/2.7-from-nazi-psychology-to-ai-auditing.md",
 ]
 
 
@@ -54,15 +81,15 @@ def main() -> None:
             warn(f"Missing required file: {file_path}")
             warnings += 1
 
+    for file_path in RAW_MODULE_FILES:
+        if not (ROOT / file_path).is_file():
+            warn(f"Missing expected raw module file: {file_path}")
+            warnings += 1
+
     legacy = ROOT / "RitmaOS_Knowledge_Base"
     if legacy.exists():
-        contents = list(legacy.iterdir()) if legacy.is_dir() else [legacy]
-        if contents:
-            warn("Legacy RitmaOS_Knowledge_Base/ folder remains because it still contains files.")
-            warnings += 1
-        else:
-            warn("Legacy RitmaOS_Knowledge_Base/ folder is empty and can be removed.")
-            warnings += 1
+        warn("Old nested RitmaOS_Knowledge_Base/ folder should not remain in v2 architecture.")
+        warnings += 1
 
     if warnings:
         print(f"Validation completed with {warnings} warning(s).")

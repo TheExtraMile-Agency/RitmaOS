@@ -25,7 +25,6 @@ DESCRIPTIONS = {
     "scripts/init_module.py": "Creates a new raw-module inbox file.",
     "scripts/update_manifest.py": "Regenerates this manifest from the repository file tree.",
     "scripts/validate_repo.py": "Checks required repository architecture and prints warnings.",
-    "RitmaOS_Knowledge_Base/": "Legacy package metadata folder retained because it still contains files.",
 }
 
 
@@ -38,7 +37,9 @@ def description_for(relative_path: str, is_dir: bool) -> str:
     if key in DESCRIPTIONS:
         return DESCRIPTIONS[key]
     if relative_path.startswith("02_RAW_MODULES/") and relative_path.endswith(".md"):
-        return "Raw module source or raw-module index; preserve source files exactly."
+        if relative_path.endswith("00_RAW_MODULES_INDEX.md") or relative_path.endswith("README.md"):
+            return "Raw module operating documentation."
+        return "Raw module source file; preserve exactly."
     if relative_path.startswith("09_TEMPLATES/workspace-template/"):
         return "Starter workspace template asset."
     return "Repository file."
