@@ -7,3 +7,4 @@
 | `03_SERVICE_OFFER_SPEC.md` | Draft spec for service-first productization. | Stub |
 | `04_PRODUCTIZATION_ROADMAP.md` | Draft roadmap for turning research into product. | Stub |
 | `05_MODULE_3_1_PRODUCT_IMPLICATIONS.md` | Draft product implications from Module 3.1 folder architecture walkthrough. | Draft |
+| `06_MODULE_3_2_PRODUCT_IMPLICATIONS.md` | Draft product implications from module 3.2 for archetype-based workspace customization. | Draft |

@@ -18,3 +18,13 @@ See `3.1-synthesis-questions.md` for the full Module 3.1 synthesis queue.
 - Is the first product a downloadable template, guided generator, CLI, web app, or done-for-you service?
 - What naming convention should RitmaOS enforce across generated workspaces?
 - Can "we build your AI folder system" be packaged as a clear agency service?
+
+## Module 3.2 Questions
+
+See `3.2-synthesis-questions.md` for the full Module 3.2 synthesis queue.
+
+- What should be RitmaOS's first supported archetype?
+- Should RitmaOS generate fixed workspace names or ask users to name their own work modes?
+- How many starter workspaces should the MVP create by default?
+- How should RitmaOS prevent context bleed between clients, projects, or work modes?
+- How much customization should happen during onboarding versus after the first real use?
