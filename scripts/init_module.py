@@ -5,7 +5,7 @@ from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parents[1]
-INBOX = ROOT / "04_NEW_MODULES_INBOX"
+INBOX = ROOT / "05_NEW_MODULES_INBOX"
 
 
 def slugify(value: str) -> str:

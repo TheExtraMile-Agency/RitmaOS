@@ -1,26 +1,33 @@
 # AGENTS.md
 
-These instructions apply to AI coding and research agents working in this repository.
+These instructions apply to AI coding, research, and documentation agents working in this repository.
 
-## Core Rules
+## Critical Rules
 
 - Preserve raw module text exactly.
-- Do not rewrite, summarize, rename, delete, or reorganize raw source files.
-- Do not treat working assumptions as final product decisions.
-- Separate raw material, extracted frameworks, product drafts, and decisions.
-- Prefer additive changes over destructive edits.
-- Before changing repository structure, explain the proposed change and wait for explicit approval.
-- Always update the manifest or relevant index when adding files.
+- Never edit files in `02_RAW_MODULES/` unless explicitly adding a new raw module.
+- Do not rewrite, summarize, clean up, rename, delete, or reorganize existing raw modules.
+- Separate raw material, extracted frameworks, product drafts, architecture docs, templates, operations docs, and decisions.
+- Do not treat product drafts as final decisions.
+- Use `06_DECISIONS_LOG/DECISIONS.md` for durable decisions.
+- Prefer additive commits.
+- Ask before destructive changes.
+- Update `PACKAGE_MANIFEST.md` after structural changes.
+- Update relevant indexes after adding files.
 
 ## Repository Layers
 
-- Raw source material currently lives in `RitmaOS_Knowledge_Base/01_RAW_MODULES/`.
-- Extracted frameworks currently live in `RitmaOS_Knowledge_Base/02_EXTRACTED_FRAMEWORKS/`.
-- Product drafts currently live in `RitmaOS_Knowledge_Base/03_PRODUCT_SPEC_DRAFTS/`.
-- Condensed source-of-truth drafts currently live in `RitmaOS_Knowledge_Base/00_SOURCE_OF_TRUTH/`.
-- Decisions live in `05_DECISIONS_LOG/DECISIONS.md`.
-- New module intake starts in `04_NEW_MODULES_INBOX/`.
-- Pending synthesis work lives in `07_SYNTHESIS_QUEUE/`.
+- `00_START_HERE/` is the entry point.
+- `01_SOURCE_OF_TRUTH/` contains condensed working assumptions.
+- `02_RAW_MODULES/` contains immutable raw source material.
+- `03_EXTRACTED_FRAMEWORKS/` contains interpretations extracted from raw material.
+- `04_PRODUCT_SPEC_DRAFTS/` contains draft product specifications.
+- `05_NEW_MODULES_INBOX/` is for new raw material before review.
+- `06_DECISIONS_LOG/` contains durable decisions.
+- `07_SYNTHESIS_QUEUE/` tracks unresolved synthesis work.
+- `08_WORKSPACE_ARCHITECTURE/` describes the working architecture.
+- `09_TEMPLATES/` contains reusable templates.
+- `10_OPERATIONS/` contains operating workflows.
 
 ## Commit Discipline
 
@@ -29,17 +36,16 @@ When processing a new module, use separate commits for:
 1. Raw source addition.
 2. Extracted frameworks.
 3. Product thesis or spec updates.
+4. Durable decisions, if any.
 
 Do not combine raw source preservation with interpretation-heavy edits.
 
-## Working With Modules
+## Structure Changes
 
-- Put new raw text in `04_NEW_MODULES_INBOX/` first.
-- Preserve exact wording, ordering, headings, and formatting in raw module files.
-- Move reviewed raw files into `RitmaOS_Knowledge_Base/01_RAW_MODULES/` only when instructed.
-- Extract frameworks into `RitmaOS_Knowledge_Base/02_EXTRACTED_FRAMEWORKS/`.
-- Add product implications only after analysis.
+Before changing folder architecture, explain the proposed change, why it is needed, and what files will move. Wait for explicit approval.
 
-## Safety
+## Raw Module Handling
 
-If a requested change could affect raw source material or repository structure, stop and explain the risk before proceeding.
+New raw module text starts in `05_NEW_MODULES_INBOX/`. After review, it can be moved into `02_RAW_MODULES/`, then indexed in `02_RAW_MODULES/00_RAW_MODULES_INDEX.md`.
+
+Existing raw modules are source evidence, not editable drafts.
