@@ -137,6 +137,76 @@ Mapped to the 60/30/10 lens:
 10% AI reasoning: Claude Code and model-mediated automation across layers
 ```
 
+## Folder Organization Guide Pattern
+
+The Folder Organization Guide reinforces the three-layer folder architecture:
+
+```text
+Layer 1: Map / CLAUDE.md
+Layer 2: Rooms / workspace CONTEXT.md files
+Layer 3: Tools / Skills
+```
+
+The guide makes routing tables the central navigation pattern and treats naming conventions as a lightweight database or indexing substitute. It also frames workspace separation around mental mode, not arbitrary folder categories.
+
+The reusable file-tree archetypes include:
+
+- content creator,
+- freelancer / consultant,
+- developer,
+- researcher / writer.
+
+The common failure modes match the Section 3 guardrails:
+
+- `CLAUDE.md` too long,
+- no routing table,
+- too many workspaces,
+- context files describing the assistant instead of the work,
+- stale context files,
+- one flat folder,
+- overbuilding before use.
+
+## Production `CLAUDE.md` Examples Pattern
+
+The production examples show `CLAUDE.md` as the root routing artifact. Each example combines:
+
+- project identity,
+- workspace map,
+- routing table,
+- naming conventions,
+- rules / avoid-list,
+- domain-specific context.
+
+The reusable operating patterns include:
+
+- solo content creator,
+- freelance consultant,
+- software developer,
+- researcher / academic writer,
+- small business / non-technical operations.
+
+These examples show how the abstract folder architecture becomes operational without changing the underlying layers.
+
+## Workflow Starter Pattern
+
+The workflow starter files are closer to installable product scaffolds than static documentation.
+
+Each starter operationalizes the three-layer architecture:
+
+```text
+CLAUDE.md = map
+CONTEXT.md files = rooms
+skills/processes = tools
+```
+
+Starter types currently represented:
+
+- content pipeline,
+- client management,
+- code project.
+
+Each starter combines folder structure, root routing, workspace context, naming conventions, process rules, and role-specific operating assumptions.
+
 ## Asset-Heavy Module Handling Pattern
 
 Module 4 implies a new repository handling pattern:
@@ -163,6 +233,8 @@ constraints
 prompt/framework libraries
 reference architectures
 skill starters
+CLAUDE.md examples
+workflow starters
 skills manuals
 resource indexes
 checksums

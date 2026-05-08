@@ -28,6 +28,8 @@ The product and repository model should distinguish:
 - resource indexes,
 - reference architectures,
 - skill starters,
+- `CLAUDE.md` templates,
+- workflow starter kits,
 - extracted architecture,
 - implementation templates,
 - synthesis questions.
@@ -117,6 +119,49 @@ workflow problem -> recommended repo/tool/resource category -> setup instruction
 
 This prevents resource lists from becoming generic link dumps.
 
+## Folder Architecture Reference
+
+The Folder Organization Guide should become one of the core architecture references for RitmaOS.
+
+Draft product implication:
+
+```text
+map -> rooms -> tools
+```
+
+could become the candidate canonical RitmaOS workspace model.
+
+RitmaOS should support generating role-specific folder structures from a routing-table model, with naming conventions acting as a lightweight database or indexing system.
+
+## Production `CLAUDE.md` Generator
+
+RitmaOS should likely include production `CLAUDE.md` generators for different user archetypes.
+
+Candidate archetypes:
+
+- content creator,
+- consultant / agency,
+- developer,
+- researcher / writer,
+- small business operator.
+
+Generated `CLAUDE.md` files should stay small and route into workspace context files rather than storing all project knowledge.
+
+The templates should be editable starter artifacts, not rigid final files.
+
+## Workflow Starter Generator
+
+Workflow starters should likely become generated starter workspaces, not just documentation.
+
+A generated scaffold could include:
+
+- root `CLAUDE.md`,
+- workspace `CONTEXT.md` files,
+- naming conventions,
+- rules,
+- tool/skill recommendations,
+- process-specific folders.
+
 ## Reference Architecture Gallery
 
 The asset package also supports a gallery of reference architectures.
@@ -167,8 +212,9 @@ A practical RitmaOS MVP may eventually need:
 5. Skills/capabilities decision guide.
 6. Repo/resource recommendation index.
 7. Skill/workspace builder wizard.
-8. Package inventory and checksum system.
-9. Asset-heavy module workflow.
+8. Workflow starter generator.
+9. Package inventory and checksum system.
+10. Asset-heavy module workflow.
 ```
 
 ## Decision Status
@@ -181,3 +227,5 @@ Potential future decisions:
 - Should `05_NEW_MODULES_INBOX/module-x/` become the canonical raw asset staging location?
 - Should RitmaOS include a formal package installer or keep asset handling manual for now?
 - Should prompt libraries, constraints, skills manuals, and resource indexes become first-class product categories?
+- Should workflow starter kits and `CLAUDE.md` templates become first-class product categories?
+- Is asset-heavy module handling now a product requirement rather than only an archival concern?

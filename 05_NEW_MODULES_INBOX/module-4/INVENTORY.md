@@ -23,10 +23,17 @@ Note: the requested source path `E:\Downloads\414bc237-d3b7-4b56-9525-88c7e88872
 |---|---|---|---|
 | `4-workspace-blueprint-full-template.md` | `workspace-blueprint.zip::workspace-blueprint/START-HERE.md` | `02_RAW_MODULES/4-workspace-blueprint-full-template.md` | `4ec0cb96a1660bd1c003e0f35b31c95cd31034f3d97236cba12a6cf5f809f85a` |
 | `4-vault-toolkit-overview.md` | `vault toolkit.zip::README.md` | `02_RAW_MODULES/4-vault-toolkit-overview.md` | `8c55f5a5f6ebecfb149b11751bf338400393e21fca28c18914ec139cbe0dc783` |
+| `4-folder-organization-guide.md` | `E:\Downloads\folder-organization-guide.md` | `02_RAW_MODULES/4-folder-organization-guide.md` | `b30165a9bd41578c3b569b1db7bcfd1b8b64d74a06b7e5ac6a32d633687329a1` |
+| `4-production-claude-md-examples.md` | `E:\Downloads\production-claude-md-examples.md` | `02_RAW_MODULES/4-production-claude-md-examples.md` | `8d54547f16df3beb5ab6cdadeea78780a3e143ec0ba72f87685b3f03bc421afb` |
+| `4-workflow-starter-content-pipeline.md` | `E:\Downloads\workflow-starter-content-pipeline.md` | `02_RAW_MODULES/4-workflow-starter-content-pipeline.md` | `be7fe18cd3936df667acabeb9d4efb6898c0c5e5ed81f8b550ae012599aaf8d8` |
+| `4-workflow-starter-client-management.md` | `E:\Downloads\workflow-starter-client-management.md` | `02_RAW_MODULES/4-workflow-starter-client-management.md` | `45570e402615260269ad42051011fde1cb6fb112315ffc29ce137c92b692e509` |
+| `4-workflow-starter-code-project.md` | `E:\Downloads\workflow-starter-code-project.md` | `02_RAW_MODULES/4-workflow-starter-code-project.md` | `57178c3a3ab3f868c02876e1594562b44f6f96b9afb8b080de20ecbfa1608541` |
 
 Prompt Library raw text has not been staged because no exact raw Prompt Library source file or pasted source text was present locally during this update.
 
 PDFs are staged as raw source assets only. They were not rewritten into markdown.
+
+The Claude Skills Manual overview and Resource Index overview markdown files have not been staged because no exact overview text files were present locally during this update. The PDFs are preserved intact as raw source assets.
 
 ## PDF Inventory
 

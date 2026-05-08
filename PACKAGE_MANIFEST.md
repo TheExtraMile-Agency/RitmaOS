@@ -36,7 +36,12 @@ This manifest is generated from the repository file tree. It lists the purpose o
 | `02_RAW_MODULES/3.1-the-full-walkthrough-folder-architecture.md` | File | Raw module source file; preserve exactly. |
 | `02_RAW_MODULES/3.2-customizing-for-your-use-case.md` | File | Raw module source file; preserve exactly. |
 | `02_RAW_MODULES/3.3-common-mistakes-and-how-to-fix-them.md` | File | Raw module source file; preserve exactly. |
+| `02_RAW_MODULES/4-folder-organization-guide.md` | File | Raw module source file; preserve exactly. |
+| `02_RAW_MODULES/4-production-claude-md-examples.md` | File | Raw module source file; preserve exactly. |
 | `02_RAW_MODULES/4-vault-toolkit-overview.md` | File | Raw module source file; preserve exactly. |
+| `02_RAW_MODULES/4-workflow-starter-client-management.md` | File | Raw module source file; preserve exactly. |
+| `02_RAW_MODULES/4-workflow-starter-code-project.md` | File | Raw module source file; preserve exactly. |
+| `02_RAW_MODULES/4-workflow-starter-content-pipeline.md` | File | Raw module source file; preserve exactly. |
 | `02_RAW_MODULES/4-workspace-blueprint-full-template.md` | File | Raw module source file; preserve exactly. |
 | `02_RAW_MODULES/README.md` | File | Raw module operating documentation. |
 | `03_EXTRACTED_FRAMEWORKS/` | Folder | Frameworks interpreted from raw source material. |

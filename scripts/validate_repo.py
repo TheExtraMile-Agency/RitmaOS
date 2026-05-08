@@ -66,6 +66,11 @@ RAW_MODULE_FILES = [
     "02_RAW_MODULES/3.3-common-mistakes-and-how-to-fix-them.md",
     "02_RAW_MODULES/4-workspace-blueprint-full-template.md",
     "02_RAW_MODULES/4-vault-toolkit-overview.md",
+    "02_RAW_MODULES/4-folder-organization-guide.md",
+    "02_RAW_MODULES/4-production-claude-md-examples.md",
+    "02_RAW_MODULES/4-workflow-starter-content-pipeline.md",
+    "02_RAW_MODULES/4-workflow-starter-client-management.md",
+    "02_RAW_MODULES/4-workflow-starter-code-project.md",
 ]
 
 

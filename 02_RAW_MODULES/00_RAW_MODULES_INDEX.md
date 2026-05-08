@@ -18,5 +18,10 @@ This folder preserves raw module text. Do not edit, rewrite, summarize, rename, 
 | 3.3 | Common Mistakes and How to Fix Them | `3.3-common-mistakes-and-how-to-fix-them.md` | Present |
 | 4 | Workspace Blueprint / Full Template | `4-workspace-blueprint-full-template.md` | Present |
 | 4 | Vault Toolkit Overview | `4-vault-toolkit-overview.md` | Present |
+| 4 | Folder Organization Guide | `4-folder-organization-guide.md` | Present |
+| 4 | Production CLAUDE.md Examples | `4-production-claude-md-examples.md` | Present |
+| 4 | Workflow Starter / Content Pipeline | `4-workflow-starter-content-pipeline.md` | Present |
+| 4 | Workflow Starter / Client Management | `4-workflow-starter-client-management.md` | Present |
+| 4 | Workflow Starter / Code Project | `4-workflow-starter-code-project.md` | Present |
 
 No expected raw modules are currently marked missing.

@@ -14,4 +14,4 @@
 | 3.1 The Full Walkthrough / Folder Architecture | Yes | Yes | Drafted | No | Raw file stored; framework, product implications, and synthesis questions drafted. |
 | 3.2 Customizing for Your Use Case | Yes | Yes | Drafted | No | Raw file stored; framework, product implications, and synthesis questions drafted. |
 | 3.3 Common Mistakes and How to Fix Them | Yes | Yes | Drafted | No | Raw file stored; framework, product implications, and synthesis questions drafted. |
-| 4 Practical Workspace Toolkit Bundle | Partial | Yes | Drafted | No | Raw overview files and available assets staged; exact Prompt Library raw source is still pending. |
+| 4 Practical Workspace Toolkit Bundle | Partial | Yes | Drafted | No | Raw overview files, workflow starter sources, and available assets staged; exact Prompt Library, Skills Manual overview, and Resource Index overview raw source text are still pending. |

@@ -46,6 +46,9 @@ See `4-practical-workspace-toolkit-synthesis-questions.md` for the full Module 4
 - Should asset-heavy modules become their own module type in RitmaOS?
 - Should `05_NEW_MODULES_INBOX/module-x/` become the canonical staging location for downloadable zips?
 - Should extracted files include per-asset inventories?
-- Should RitmaOS unpack asset packages into a preserved raw-assets directory, or keep zips intact only?
 - Should skills manuals get their own capability-routing category?
 - Should resource indexes get their own tool-discovery category?
+- Should workflow starters get their own product-scaffold category?
+- Should the three-layer folder architecture become the canonical RitmaOS workspace model?
+- Should RitmaOS generate CLAUDE.md routing tables automatically?
+- Should naming conventions be treated as a formal indexing primitive?
