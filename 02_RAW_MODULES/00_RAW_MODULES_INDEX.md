@@ -23,5 +23,6 @@ This folder preserves raw module text. Do not edit, rewrite, summarize, rename, 
 | 4 | Workflow Starter / Content Pipeline | `4-workflow-starter-content-pipeline.md` | Present |
 | 4 | Workflow Starter / Client Management | `4-workflow-starter-client-management.md` | Present |
 | 4 | Workflow Starter / Code Project | `4-workflow-starter-code-project.md` | Present |
+| 5.0 | The 60/30/10 Applied — Lesson 0: Overview | `5.0-the-60-30-10-applied-lesson-0-overview.md` | Present |
 
 No expected raw modules are currently marked missing.

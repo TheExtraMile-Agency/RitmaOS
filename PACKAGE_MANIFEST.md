@@ -43,6 +43,7 @@ This manifest is generated from the repository file tree. It lists the purpose o
 | `02_RAW_MODULES/4-workflow-starter-code-project.md` | File | Raw module source file; preserve exactly. |
 | `02_RAW_MODULES/4-workflow-starter-content-pipeline.md` | File | Raw module source file; preserve exactly. |
 | `02_RAW_MODULES/4-workspace-blueprint-full-template.md` | File | Raw module source file; preserve exactly. |
+| `02_RAW_MODULES/5.0-the-60-30-10-applied-lesson-0-overview.md` | File | Raw module source file; preserve exactly. |
 | `02_RAW_MODULES/README.md` | File | Raw module operating documentation. |
 | `03_EXTRACTED_FRAMEWORKS/` | Folder | Frameworks interpreted from raw source material. |
 | `03_EXTRACTED_FRAMEWORKS/00_FRAMEWORKS_INDEX.md` | File | Repository file. |

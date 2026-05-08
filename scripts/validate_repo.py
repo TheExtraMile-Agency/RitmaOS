@@ -71,6 +71,7 @@ RAW_MODULE_FILES = [
     "02_RAW_MODULES/4-workflow-starter-content-pipeline.md",
     "02_RAW_MODULES/4-workflow-starter-client-management.md",
     "02_RAW_MODULES/4-workflow-starter-code-project.md",
+    "02_RAW_MODULES/5.0-the-60-30-10-applied-lesson-0-overview.md",
 ]
 
 
