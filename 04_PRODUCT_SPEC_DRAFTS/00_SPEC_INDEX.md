@@ -9,4 +9,4 @@
 | `05_MODULE_3_1_PRODUCT_IMPLICATIONS.md` | Draft product implications from Module 3.1 folder architecture walkthrough. | Draft |
 | `06_MODULE_3_2_PRODUCT_IMPLICATIONS.md` | Draft product implications from module 3.2 for archetype-based workspace customization. | Draft |
 | `07_MODULE_3_3_PRODUCT_IMPLICATIONS.md` | Draft product implications from Module 3.3, including workspace validation and setup guardrails. | Draft |
-| `08_MODULE_4_PRODUCT_IMPLICATIONS.md` | Draft product implications from Module 4, including asset-heavy module support, blueprint installation, constraints, and package inventory. | Draft |
+| `08_MODULE_4_PRODUCT_IMPLICATIONS.md` | Draft product implications from Module 4, including asset-heavy module support, blueprint installation, constraints, prompt/framework libraries, resource indexes, skills manuals, and package inventory. | Draft |

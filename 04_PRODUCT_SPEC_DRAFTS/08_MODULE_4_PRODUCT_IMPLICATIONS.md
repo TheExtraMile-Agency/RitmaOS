@@ -9,17 +9,25 @@ Source asset packages:
 
 - `05_NEW_MODULES_INBOX/module-4/workspace-blueprint.zip`
 - `05_NEW_MODULES_INBOX/module-4/vault-toolkit.zip`
+- `05_NEW_MODULES_INBOX/module-4/clief_notes_skills_field_manual_v1.pdf`
+- `05_NEW_MODULES_INBOX/module-4/resource-index-claude-repos.pdf`
 
 Status: Draft product implications only. Not a durable decision.
 
 ## Product Thesis Implication
 
-Module 4 suggests RitmaOS may need first-class support for asset-heavy modules. Some source material is not a single lesson text. It can include downloadable workspace examples, nested packages, constraint libraries, reference architectures, and skill starters.
+Module 4 suggests RitmaOS may need first-class support for asset-heavy modules. Some source material is not a single lesson text. It can include downloadable workspace examples, nested packages, PDFs/manuals, prompt libraries, constraint libraries, reference architectures, resource indexes, and skill starters.
 
 The product and repository model should distinguish:
 
 - raw lesson text,
 - downloadable source packages,
+- PDFs/manuals,
+- prompt libraries,
+- constraint libraries,
+- resource indexes,
+- reference architectures,
+- skill starters,
 - extracted architecture,
 - implementation templates,
 - synthesis questions.
@@ -70,6 +78,45 @@ RitmaOS could let users attach constraints to:
 - handoff steps,
 - specific artifact types.
 
+## Prompt / Framework Library
+
+Prompt libraries should be treated as framework artifacts, not isolated copy-paste prompts.
+
+Draft product model:
+
+```text
+business problem -> strategic framework -> prompt sequence -> customized answer
+```
+
+RitmaOS could link each prompt back to the framework it encodes and the product/business problem it is meant to solve.
+
+## Skills and Capability Guide
+
+Skills/manuals should be treated as capability-routing documentation.
+
+RitmaOS could help users decide whether a task needs:
+
+- persistent context,
+- external data,
+- repeatable process,
+- output generation,
+- deeper reasoning,
+- a connector or MCP,
+- a custom skill,
+- a workspace-level context file.
+
+## Resource Recommendation Index
+
+Resource indexes should be treated as tool-discovery and capability-routing documentation.
+
+Potential feature:
+
+```text
+workflow problem -> recommended repo/tool/resource category -> setup instructions
+```
+
+This prevents resource lists from becoming generic link dumps.
+
 ## Reference Architecture Gallery
 
 The asset package also supports a gallery of reference architectures.
@@ -115,10 +162,13 @@ A practical RitmaOS MVP may eventually need:
 ```text
 1. Workspace blueprint generator.
 2. Constraint library.
-3. Reference architecture gallery.
-4. Skill/workspace builder wizard.
-5. Package inventory and checksum system.
-6. Asset-heavy module workflow.
+3. Prompt/framework library.
+4. Reference architecture gallery.
+5. Skills/capabilities decision guide.
+6. Repo/resource recommendation index.
+7. Skill/workspace builder wizard.
+8. Package inventory and checksum system.
+9. Asset-heavy module workflow.
 ```
 
 ## Decision Status
@@ -130,3 +180,4 @@ Potential future decisions:
 - Should asset-heavy modules become a formal RitmaOS module type?
 - Should `05_NEW_MODULES_INBOX/module-x/` become the canonical raw asset staging location?
 - Should RitmaOS include a formal package installer or keep asset handling manual for now?
+- Should prompt libraries, constraints, skills manuals, and resource indexes become first-class product categories?

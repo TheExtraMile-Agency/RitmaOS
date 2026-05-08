@@ -1,4 +1,4 @@
-# Module 4 Framework Extraction: Workspace Blueprint and Vault Toolkit
+# Module 4 Framework Extraction: Practical Workspace Toolkit Bundle
 
 Source raw overviews:
 
@@ -9,12 +9,14 @@ Source asset packages:
 
 - `05_NEW_MODULES_INBOX/module-4/workspace-blueprint.zip`
 - `05_NEW_MODULES_INBOX/module-4/vault-toolkit.zip`
+- `05_NEW_MODULES_INBOX/module-4/clief_notes_skills_field_manual_v1.pdf`
+- `05_NEW_MODULES_INBOX/module-4/resource-index-claude-repos.pdf`
 
 Status: Extracted framework draft. Not a durable decision.
 
 ## Core Framework
 
-Module 4 shifts from lesson text into practical source packages. The assets demonstrate how RitmaOS-style workspace architecture can be distributed as examples, constraints, reference architectures, and builder skills.
+Module 4 shifts from lesson text into practical source packages. The assets demonstrate how RitmaOS-style workspace architecture can be distributed as examples, constraints, reference architectures, builder skills, PDF manuals, and resource indexes.
 
 The reusable framework is:
 
@@ -86,6 +88,55 @@ Extracted process:
 
 This is a bridge from static template to interactive setup wizard.
 
+## Prompt Library Pattern
+
+The prompt library source is still pending exact raw-source staging. The provided module framing identifies prompts as outputs of real strategy sessions rather than generic prompt packs.
+
+Extracted working pattern:
+
+```text
+business problem -> strategic framework -> reusable prompt -> customized answer
+```
+
+Prompt sequences should be treated as framework artifacts. They encode strategic moves such as zero-spend audits, minimum viable fixes, manual-process-to-product conversion, agency undercut strategy, revenue-share calculators, content planning, problem-first AI mapping, and full business audits.
+
+## Skills Manual / Capability Routing Pattern
+
+The Skills Field Manual PDF is staged as a raw asset. It should be treated as capability-routing documentation, not as a prompt library.
+
+Extracted framework:
+
+```text
+need persistent context? -> project/custom skill/CLAUDE.md/memory
+need external data? -> connector/MCP/web search/deep research
+need repeatable process? -> skill or workflow
+need concrete output? -> artifact/file/code execution
+need deeper reasoning? -> extended thinking
+```
+
+RitmaOS implication: context architecture beats prompt wordsmithing. The system should help users choose the right capability layer instead of writing longer prompts.
+
+## Resource Index Pattern
+
+The Resource Index PDF is staged as a raw asset. It should be treated as a tool-discovery and capability-routing layer.
+
+Extracted categories:
+
+- official repositories as authoritative references,
+- community skill collections as reusable workflow patterns,
+- MCP server indexes as external-tool integration maps,
+- programmatic video tools as code infrastructure,
+- frontend/UI/design libraries as artifact acceleration tools,
+- learning/reference resources as foundation material.
+
+Mapped to the 60/30/10 lens:
+
+```text
+60% traditional code/tools: Remotion, UI libraries, reference implementations
+30% rules/tools/infrastructure: skills, MCP servers, plugins, workflow libraries
+10% AI reasoning: Claude Code and model-mediated automation across layers
+```
+
 ## Asset-Heavy Module Handling Pattern
 
 Module 4 implies a new repository handling pattern:
@@ -93,6 +144,7 @@ Module 4 implies a new repository handling pattern:
 | Source Type | Repository Layer |
 |---|---|
 | Original downloadable zips | `05_NEW_MODULES_INBOX/module-4/` |
+| Original downloadable PDFs | `05_NEW_MODULES_INBOX/module-4/` |
 | Raw lesson or package overview text | `02_RAW_MODULES/` |
 | Neutral package inventory and checksums | `05_NEW_MODULES_INBOX/module-4/` |
 | Extracted architecture | `03_EXTRACTED_FRAMEWORKS/` |
@@ -108,8 +160,11 @@ Module 4 suggests RitmaOS is not only a methodology for writing context files. I
 ```text
 blueprints
 constraints
+prompt/framework libraries
 reference architectures
 skill starters
+skills manuals
+resource indexes
 checksums
 inventories
 guided builders

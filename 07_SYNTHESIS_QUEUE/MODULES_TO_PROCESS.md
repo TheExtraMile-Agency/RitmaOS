@@ -14,4 +14,4 @@
 | 3.1 The Full Walkthrough / Folder Architecture | Yes | Yes | Drafted | No | Raw file stored; framework, product implications, and synthesis questions drafted. |
 | 3.2 Customizing for Your Use Case | Yes | Yes | Drafted | No | Raw file stored; framework, product implications, and synthesis questions drafted. |
 | 3.3 Common Mistakes and How to Fix Them | Yes | Yes | Drafted | No | Raw file stored; framework, product implications, and synthesis questions drafted. |
-| 4 Workspace Blueprint / Vault Toolkit Practical Asset Package | Yes | Yes | Drafted | No | Raw overview files stored; downloadable zips staged in `05_NEW_MODULES_INBOX/module-4/`. |
+| 4 Practical Workspace Toolkit Bundle | Partial | Yes | Drafted | No | Raw overview files and available assets staged; exact Prompt Library raw source is still pending. |

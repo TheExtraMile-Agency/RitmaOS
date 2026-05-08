@@ -46,7 +46,7 @@ This manifest is generated from the repository file tree. It lists the purpose o
 | `03_EXTRACTED_FRAMEWORKS/03_MODULE_3_1_FOLDER_ARCHITECTURE.md` | File | Repository file. |
 | `03_EXTRACTED_FRAMEWORKS/04_MODULE_3_2_USE_CASE_CUSTOMIZATION.md` | File | Repository file. |
 | `03_EXTRACTED_FRAMEWORKS/05_MODULE_3_3_COMMON_MISTAKES.md` | File | Repository file. |
-| `03_EXTRACTED_FRAMEWORKS/06_MODULE_4_WORKSPACE_BLUEPRINT_AND_VAULT_TOOLKIT.md` | File | Repository file. |
+| `03_EXTRACTED_FRAMEWORKS/06_MODULE_4_PRACTICAL_WORKSPACE_TOOLKIT_BUNDLE.md` | File | Repository file. |
 | `03_EXTRACTED_FRAMEWORKS/README.md` | File | Repository file. |
 | `04_PRODUCT_SPEC_DRAFTS/` | Folder | Draft product specs, service specs, and roadmap notes. |
 | `04_PRODUCT_SPEC_DRAFTS/00_SPEC_INDEX.md` | File | Repository file. |
@@ -61,7 +61,9 @@ This manifest is generated from the repository file tree. It lists the purpose o
 | `04_PRODUCT_SPEC_DRAFTS/README.md` | File | Repository file. |
 | `05_NEW_MODULES_INBOX/` | Folder | Inbox for newly collected raw module text before review. |
 | `05_NEW_MODULES_INBOX/module-4/` | Folder | Repository file. |
+| `05_NEW_MODULES_INBOX/module-4/clief_notes_skills_field_manual_v1.pdf` | File | Repository file. |
 | `05_NEW_MODULES_INBOX/module-4/INVENTORY.md` | File | Repository file. |
+| `05_NEW_MODULES_INBOX/module-4/resource-index-claude-repos.pdf` | File | Repository file. |
 | `05_NEW_MODULES_INBOX/module-4/SHA256SUMS.txt` | File | Repository file. |
 | `05_NEW_MODULES_INBOX/module-4/vault-toolkit.zip` | File | Repository file. |
 | `05_NEW_MODULES_INBOX/module-4/workspace-blueprint.zip` | File | Repository file. |
@@ -73,7 +75,7 @@ This manifest is generated from the repository file tree. It lists the purpose o
 | `07_SYNTHESIS_QUEUE/3.1-synthesis-questions.md` | File | Repository file. |
 | `07_SYNTHESIS_QUEUE/3.2-synthesis-questions.md` | File | Repository file. |
 | `07_SYNTHESIS_QUEUE/3.3-synthesis-questions.md` | File | Repository file. |
-| `07_SYNTHESIS_QUEUE/4-workspace-blueprint-vault-toolkit-synthesis-questions.md` | File | Repository file. |
+| `07_SYNTHESIS_QUEUE/4-practical-workspace-toolkit-synthesis-questions.md` | File | Repository file. |
 | `07_SYNTHESIS_QUEUE/MODULES_TO_PROCESS.md` | File | Repository file. |
 | `07_SYNTHESIS_QUEUE/QUESTIONS_FOR_SYNTHESIS.md` | File | Repository file. |
 | `07_SYNTHESIS_QUEUE/README.md` | File | Repository file. |
