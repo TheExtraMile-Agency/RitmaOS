@@ -52,3 +52,14 @@ See `4-practical-workspace-toolkit-synthesis-questions.md` for the full Module 4
 - Should the three-layer folder architecture become the canonical RitmaOS workspace model?
 - Should RitmaOS generate CLAUDE.md routing tables automatically?
 - Should naming conventions be treated as a formal indexing primitive?
+
+## Module 5.0 Questions
+
+See `5.0-60-30-10-applied-synthesis-questions.md` for the full Module 5.0 synthesis queue.
+
+- Should 60/30/10 become a first-class RitmaOS diagnostic, or remain an underlying interpretation framework?
+- Should RitmaOS onboarding ask users whether they are entering through build, partnership, or system strategy?
+- How should RitmaOS distinguish infrastructure, orchestration, and AI in user-submitted workflows?
+- Should layer audits produce workspace folders, written specs, pricing guidance, or all three?
+- Should training exercise responses become structured data inside the workspace?
+- What artifacts should be created after a 60/30/10 exercise: layer map, bottleneck list, implementation spec, contract notes, or workspace routing table?
