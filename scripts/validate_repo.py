@@ -64,6 +64,8 @@ RAW_MODULE_FILES = [
     "02_RAW_MODULES/3.1-the-full-walkthrough-folder-architecture.md",
     "02_RAW_MODULES/3.2-customizing-for-your-use-case.md",
     "02_RAW_MODULES/3.3-common-mistakes-and-how-to-fix-them.md",
+    "02_RAW_MODULES/4-workspace-blueprint-full-template.md",
+    "02_RAW_MODULES/4-vault-toolkit-overview.md",
 ]
 
 

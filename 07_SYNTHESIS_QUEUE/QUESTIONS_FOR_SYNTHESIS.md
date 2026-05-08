@@ -38,3 +38,13 @@ See `3.3-synthesis-questions.md` for the full Module 3.3 synthesis queue.
 - Should CLAUDE.md have a recommended line limit, token limit, or both?
 - Should context files include a required `Last updated` field?
 - Should workspace validation be a CLI command, a UI feature, or both?
+
+## Module 4 Questions
+
+See `4-workspace-blueprint-vault-toolkit-synthesis-questions.md` for the full Module 4 synthesis queue.
+
+- Should asset-heavy modules become their own module type in RitmaOS?
+- Should `05_NEW_MODULES_INBOX/module-x/` become the canonical staging location for downloadable zips?
+- Should extracted files include per-asset inventories?
+- Should RitmaOS unpack asset packages into a preserved raw-assets directory, or keep zips intact only?
+- Which Vault Toolkit constraints are durable enough to become core RitmaOS operating principles?

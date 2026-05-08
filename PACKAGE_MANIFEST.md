@@ -36,6 +36,8 @@ This manifest is generated from the repository file tree. It lists the purpose o
 | `02_RAW_MODULES/3.1-the-full-walkthrough-folder-architecture.md` | File | Raw module source file; preserve exactly. |
 | `02_RAW_MODULES/3.2-customizing-for-your-use-case.md` | File | Raw module source file; preserve exactly. |
 | `02_RAW_MODULES/3.3-common-mistakes-and-how-to-fix-them.md` | File | Raw module source file; preserve exactly. |
+| `02_RAW_MODULES/4-vault-toolkit-overview.md` | File | Raw module source file; preserve exactly. |
+| `02_RAW_MODULES/4-workspace-blueprint-full-template.md` | File | Raw module source file; preserve exactly. |
 | `02_RAW_MODULES/README.md` | File | Raw module operating documentation. |
 | `03_EXTRACTED_FRAMEWORKS/` | Folder | Frameworks interpreted from raw source material. |
 | `03_EXTRACTED_FRAMEWORKS/00_FRAMEWORKS_INDEX.md` | File | Repository file. |
@@ -44,6 +46,7 @@ This manifest is generated from the repository file tree. It lists the purpose o
 | `03_EXTRACTED_FRAMEWORKS/03_MODULE_3_1_FOLDER_ARCHITECTURE.md` | File | Repository file. |
 | `03_EXTRACTED_FRAMEWORKS/04_MODULE_3_2_USE_CASE_CUSTOMIZATION.md` | File | Repository file. |
 | `03_EXTRACTED_FRAMEWORKS/05_MODULE_3_3_COMMON_MISTAKES.md` | File | Repository file. |
+| `03_EXTRACTED_FRAMEWORKS/06_MODULE_4_WORKSPACE_BLUEPRINT_AND_VAULT_TOOLKIT.md` | File | Repository file. |
 | `03_EXTRACTED_FRAMEWORKS/README.md` | File | Repository file. |
 | `04_PRODUCT_SPEC_DRAFTS/` | Folder | Draft product specs, service specs, and roadmap notes. |
 | `04_PRODUCT_SPEC_DRAFTS/00_SPEC_INDEX.md` | File | Repository file. |
@@ -54,8 +57,14 @@ This manifest is generated from the repository file tree. It lists the purpose o
 | `04_PRODUCT_SPEC_DRAFTS/05_MODULE_3_1_PRODUCT_IMPLICATIONS.md` | File | Repository file. |
 | `04_PRODUCT_SPEC_DRAFTS/06_MODULE_3_2_PRODUCT_IMPLICATIONS.md` | File | Repository file. |
 | `04_PRODUCT_SPEC_DRAFTS/07_MODULE_3_3_PRODUCT_IMPLICATIONS.md` | File | Repository file. |
+| `04_PRODUCT_SPEC_DRAFTS/08_MODULE_4_PRODUCT_IMPLICATIONS.md` | File | Repository file. |
 | `04_PRODUCT_SPEC_DRAFTS/README.md` | File | Repository file. |
 | `05_NEW_MODULES_INBOX/` | Folder | Inbox for newly collected raw module text before review. |
+| `05_NEW_MODULES_INBOX/module-4/` | Folder | Repository file. |
+| `05_NEW_MODULES_INBOX/module-4/INVENTORY.md` | File | Repository file. |
+| `05_NEW_MODULES_INBOX/module-4/SHA256SUMS.txt` | File | Repository file. |
+| `05_NEW_MODULES_INBOX/module-4/vault-toolkit.zip` | File | Repository file. |
+| `05_NEW_MODULES_INBOX/module-4/workspace-blueprint.zip` | File | Repository file. |
 | `05_NEW_MODULES_INBOX/README.md` | File | Repository file. |
 | `06_DECISIONS_LOG/` | Folder | Durable decisions separated from drafts and assumptions. |
 | `06_DECISIONS_LOG/DECISIONS.md` | File | Repository file. |
@@ -64,6 +73,7 @@ This manifest is generated from the repository file tree. It lists the purpose o
 | `07_SYNTHESIS_QUEUE/3.1-synthesis-questions.md` | File | Repository file. |
 | `07_SYNTHESIS_QUEUE/3.2-synthesis-questions.md` | File | Repository file. |
 | `07_SYNTHESIS_QUEUE/3.3-synthesis-questions.md` | File | Repository file. |
+| `07_SYNTHESIS_QUEUE/4-workspace-blueprint-vault-toolkit-synthesis-questions.md` | File | Repository file. |
 | `07_SYNTHESIS_QUEUE/MODULES_TO_PROCESS.md` | File | Repository file. |
 | `07_SYNTHESIS_QUEUE/QUESTIONS_FOR_SYNTHESIS.md` | File | Repository file. |
 | `07_SYNTHESIS_QUEUE/README.md` | File | Repository file. |
@@ -134,7 +144,6 @@ This manifest is generated from the repository file tree. It lists the purpose o
 | `10_OPERATIONS/README.md` | File | Repository file. |
 | `10_OPERATIONS/SYNTHESIS_WORKFLOW.md` | File | Repository file. |
 | `AGENTS.md` | File | Operating instructions for AI coding and research agents. |
-| `module-3-1-review.patch` | File | Repository file. |
 | `PACKAGE_MANIFEST.md` | File | Generated inventory of folders and files in this repository. |
 | `README.md` | File | Root overview for the RitmaOS research and product-development operating system. |
 | `scripts/` | Folder | Repository maintenance scripts. |
