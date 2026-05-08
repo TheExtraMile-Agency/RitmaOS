@@ -53,6 +53,7 @@ This manifest is generated from the repository file tree. It lists the purpose o
 | `03_EXTRACTED_FRAMEWORKS/04_MODULE_3_2_USE_CASE_CUSTOMIZATION.md` | File | Repository file. |
 | `03_EXTRACTED_FRAMEWORKS/05_MODULE_3_3_COMMON_MISTAKES.md` | File | Repository file. |
 | `03_EXTRACTED_FRAMEWORKS/06_MODULE_4_PRACTICAL_WORKSPACE_TOOLKIT_BUNDLE.md` | File | Repository file. |
+| `03_EXTRACTED_FRAMEWORKS/07_MODULE_5_0_60_30_10_APPLIED_OVERVIEW.md` | File | Repository file. |
 | `03_EXTRACTED_FRAMEWORKS/README.md` | File | Repository file. |
 | `04_PRODUCT_SPEC_DRAFTS/` | Folder | Draft product specs, service specs, and roadmap notes. |
 | `04_PRODUCT_SPEC_DRAFTS/00_SPEC_INDEX.md` | File | Repository file. |
