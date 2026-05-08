@@ -85,3 +85,14 @@ See `5.2-the-partnership-nlp-logix-synthesis-questions.md` for the full Module 5
 - Should in-house cost comparisons become reusable client-facing artifacts?
 - Should orchestration loops be stored as living workflow maps that update after every project?
 - Should "Sell Architecture, Not AI" become a client conversation prep template?
+
+## Module 5.3 Questions
+
+See `5.3-the-system-underneath-synthesis-questions.md` for the full Module 5.3 synthesis queue.
+
+- Should training exercise outputs become a first-class RitmaOS data type?
+- Should 60/30/10 Workflow Audit become a separate workflow from Applied Ratio Audit, or a variant of the same workflow?
+- Should bottleneck diagnoses generate next-build opportunities automatically?
+- Should leverage maps be calculators, markdown worksheets, or both?
+- Should tools-versus-patterns testing become part of onboarding?
+- What filesystem structure best captures repeated bottlenecks and workflow patterns over time?

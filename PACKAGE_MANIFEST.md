@@ -74,6 +74,7 @@ This manifest is generated from the repository file tree. It lists the purpose o
 | `04_PRODUCT_SPEC_DRAFTS/09_MODULE_5_0_PRODUCT_IMPLICATIONS.md` | File | Repository file. |
 | `04_PRODUCT_SPEC_DRAFTS/10_MODULE_5_1_PRODUCT_IMPLICATIONS.md` | File | Repository file. |
 | `04_PRODUCT_SPEC_DRAFTS/11_MODULE_5_2_PRODUCT_IMPLICATIONS.md` | File | Repository file. |
+| `04_PRODUCT_SPEC_DRAFTS/12_MODULE_5_3_PRODUCT_IMPLICATIONS.md` | File | Repository file. |
 | `04_PRODUCT_SPEC_DRAFTS/README.md` | File | Repository file. |
 | `05_NEW_MODULES_INBOX/` | Folder | Inbox for newly collected raw module text before review. |
 | `05_NEW_MODULES_INBOX/module-4/` | Folder | Repository file. |
@@ -95,6 +96,7 @@ This manifest is generated from the repository file tree. It lists the purpose o
 | `07_SYNTHESIS_QUEUE/5.0-60-30-10-applied-synthesis-questions.md` | File | Repository file. |
 | `07_SYNTHESIS_QUEUE/5.1-the-build-vigilore-synthesis-questions.md` | File | Repository file. |
 | `07_SYNTHESIS_QUEUE/5.2-the-partnership-nlp-logix-synthesis-questions.md` | File | Repository file. |
+| `07_SYNTHESIS_QUEUE/5.3-the-system-underneath-synthesis-questions.md` | File | Repository file. |
 | `07_SYNTHESIS_QUEUE/MODULES_TO_PROCESS.md` | File | Repository file. |
 | `07_SYNTHESIS_QUEUE/QUESTIONS_FOR_SYNTHESIS.md` | File | Repository file. |
 | `07_SYNTHESIS_QUEUE/README.md` | File | Repository file. |

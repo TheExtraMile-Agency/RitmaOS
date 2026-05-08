@@ -13,3 +13,4 @@
 | `09_MODULE_5_0_PRODUCT_IMPLICATIONS.md` | Draft product implications from Module 5.0, including applied 60/30/10 diagnostics, workflow layer audits, partnership flywheels, and training-funnel support. | Draft |
 | `10_MODULE_5_1_PRODUCT_IMPLICATIONS.md` | Draft product implications from Module 5.1, including Applied Ratio Audit, thin-wrapper diagnostics, architecture-based pricing, and contract/IP strategy prompts. | Draft |
 | `11_MODULE_5_2_PRODUCT_IMPLICATIONS.md` | Draft product implications from Module 5.2, including Partnership Layer Map, Revenue Stream Mapper, in-house comparison, orchestration loop, and client conversation prep workflows. | Draft |
+| `12_MODULE_5_3_PRODUCT_IMPLICATIONS.md` | Draft product implications from Module 5.3, including workflow audits, bottleneck layer diagnosis, leverage maps, professional flywheels, tools-versus-patterns testing, and training intake. | Draft |
