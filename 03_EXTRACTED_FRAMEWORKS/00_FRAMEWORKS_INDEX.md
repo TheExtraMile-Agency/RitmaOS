@@ -10,3 +10,4 @@
 | `06_MODULE_4_PRACTICAL_WORKSPACE_TOOLKIT_BUNDLE.md` | Extracts the asset-heavy workspace blueprint, constraint library, prompt/framework library, skills manual, resource index, reference architecture, and skill starter patterns from Module 4. |
 | `07_MODULE_5_0_60_30_10_APPLIED_OVERVIEW.md` | Extracts the applied 60/30/10 overview pattern across builds, partnerships, training funnels, and leverage systems from Module 5.0. |
 | `08_MODULE_5_1_THE_BUILD_VIGILORE.md` | Extracts the VigilOre applied build audit patterns for system decomposition, AI necessity, architecture-based pricing, contract/IP strategy, and thin-wrapper fragility testing. |
+| `09_MODULE_5_2_THE_PARTNERSHIP_NLP_LOGIX.md` | Extracts the NLP Logix partnership patterns for business-layer 60/30/10 mapping, multi-stream revenue, in-house comparison, orchestration loops, and selling architecture instead of AI. |

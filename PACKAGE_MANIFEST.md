@@ -57,6 +57,7 @@ This manifest is generated from the repository file tree. It lists the purpose o
 | `03_EXTRACTED_FRAMEWORKS/06_MODULE_4_PRACTICAL_WORKSPACE_TOOLKIT_BUNDLE.md` | File | Repository file. |
 | `03_EXTRACTED_FRAMEWORKS/07_MODULE_5_0_60_30_10_APPLIED_OVERVIEW.md` | File | Repository file. |
 | `03_EXTRACTED_FRAMEWORKS/08_MODULE_5_1_THE_BUILD_VIGILORE.md` | File | Repository file. |
+| `03_EXTRACTED_FRAMEWORKS/09_MODULE_5_2_THE_PARTNERSHIP_NLP_LOGIX.md` | File | Repository file. |
 | `03_EXTRACTED_FRAMEWORKS/README.md` | File | Repository file. |
 | `04_PRODUCT_SPEC_DRAFTS/` | Folder | Draft product specs, service specs, and roadmap notes. |
 | `04_PRODUCT_SPEC_DRAFTS/00_SPEC_INDEX.md` | File | Repository file. |
