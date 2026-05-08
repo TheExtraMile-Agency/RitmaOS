@@ -73,6 +73,7 @@ RAW_MODULE_FILES = [
     "02_RAW_MODULES/4-workflow-starter-code-project.md",
     "02_RAW_MODULES/5.0-the-60-30-10-applied-lesson-0-overview.md",
     "02_RAW_MODULES/5.1-the-build-vigilore-course-companion.md",
+    "02_RAW_MODULES/5.2-the-partnership-nlp-logix-course-companion.md",
 ]
 
 
