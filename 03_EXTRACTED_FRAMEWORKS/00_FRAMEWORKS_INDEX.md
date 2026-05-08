@@ -11,3 +11,4 @@
 | `07_MODULE_5_0_60_30_10_APPLIED_OVERVIEW.md` | Extracts the applied 60/30/10 overview pattern across builds, partnerships, training funnels, and leverage systems from Module 5.0. |
 | `08_MODULE_5_1_THE_BUILD_VIGILORE.md` | Extracts the VigilOre applied build audit patterns for system decomposition, AI necessity, architecture-based pricing, contract/IP strategy, and thin-wrapper fragility testing. |
 | `09_MODULE_5_2_THE_PARTNERSHIP_NLP_LOGIX.md` | Extracts the NLP Logix partnership patterns for business-layer 60/30/10 mapping, multi-stream revenue, in-house comparison, orchestration loops, and selling architecture instead of AI. |
+| `10_MODULE_5_3_THE_SYSTEM_UNDERNEATH.md` | Extracts the repeatable 60/30/10 diagnostic system: workflow audits, bottleneck layer diagnosis, training-as-intake, leverage maps, professional flywheels, and tools-versus-patterns testing. |
