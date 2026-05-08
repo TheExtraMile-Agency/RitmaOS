@@ -43,6 +43,10 @@ This manifest is generated from the repository file tree. It lists the purpose o
 | `02_RAW_MODULES/4-workflow-starter-code-project.md` | File | Raw module source file; preserve exactly. |
 | `02_RAW_MODULES/4-workflow-starter-content-pipeline.md` | File | Raw module source file; preserve exactly. |
 | `02_RAW_MODULES/4-workspace-blueprint-full-template.md` | File | Raw module source file; preserve exactly. |
+| `02_RAW_MODULES/5.0-the-60-30-10-applied-lesson-0-overview.md` | File | Raw module source file; preserve exactly. |
+| `02_RAW_MODULES/5.1-the-build-vigilore-course-companion.md` | File | Raw module source file; preserve exactly. |
+| `02_RAW_MODULES/5.2-the-partnership-nlp-logix-course-companion.md` | File | Raw module source file; preserve exactly. |
+| `02_RAW_MODULES/5.3-the-system-underneath-course-companion.md` | File | Raw module source file; preserve exactly. |
 | `02_RAW_MODULES/README.md` | File | Raw module operating documentation. |
 | `03_EXTRACTED_FRAMEWORKS/` | Folder | Frameworks interpreted from raw source material. |
 | `03_EXTRACTED_FRAMEWORKS/00_FRAMEWORKS_INDEX.md` | File | Repository file. |
@@ -52,6 +56,10 @@ This manifest is generated from the repository file tree. It lists the purpose o
 | `03_EXTRACTED_FRAMEWORKS/04_MODULE_3_2_USE_CASE_CUSTOMIZATION.md` | File | Repository file. |
 | `03_EXTRACTED_FRAMEWORKS/05_MODULE_3_3_COMMON_MISTAKES.md` | File | Repository file. |
 | `03_EXTRACTED_FRAMEWORKS/06_MODULE_4_PRACTICAL_WORKSPACE_TOOLKIT_BUNDLE.md` | File | Repository file. |
+| `03_EXTRACTED_FRAMEWORKS/07_MODULE_5_0_60_30_10_APPLIED_OVERVIEW.md` | File | Repository file. |
+| `03_EXTRACTED_FRAMEWORKS/08_MODULE_5_1_THE_BUILD_VIGILORE.md` | File | Repository file. |
+| `03_EXTRACTED_FRAMEWORKS/09_MODULE_5_2_THE_PARTNERSHIP_NLP_LOGIX.md` | File | Repository file. |
+| `03_EXTRACTED_FRAMEWORKS/10_MODULE_5_3_THE_SYSTEM_UNDERNEATH.md` | File | Repository file. |
 | `03_EXTRACTED_FRAMEWORKS/README.md` | File | Repository file. |
 | `04_PRODUCT_SPEC_DRAFTS/` | Folder | Draft product specs, service specs, and roadmap notes. |
 | `04_PRODUCT_SPEC_DRAFTS/00_SPEC_INDEX.md` | File | Repository file. |
@@ -63,6 +71,10 @@ This manifest is generated from the repository file tree. It lists the purpose o
 | `04_PRODUCT_SPEC_DRAFTS/06_MODULE_3_2_PRODUCT_IMPLICATIONS.md` | File | Repository file. |
 | `04_PRODUCT_SPEC_DRAFTS/07_MODULE_3_3_PRODUCT_IMPLICATIONS.md` | File | Repository file. |
 | `04_PRODUCT_SPEC_DRAFTS/08_MODULE_4_PRODUCT_IMPLICATIONS.md` | File | Repository file. |
+| `04_PRODUCT_SPEC_DRAFTS/09_MODULE_5_0_PRODUCT_IMPLICATIONS.md` | File | Repository file. |
+| `04_PRODUCT_SPEC_DRAFTS/10_MODULE_5_1_PRODUCT_IMPLICATIONS.md` | File | Repository file. |
+| `04_PRODUCT_SPEC_DRAFTS/11_MODULE_5_2_PRODUCT_IMPLICATIONS.md` | File | Repository file. |
+| `04_PRODUCT_SPEC_DRAFTS/12_MODULE_5_3_PRODUCT_IMPLICATIONS.md` | File | Repository file. |
 | `04_PRODUCT_SPEC_DRAFTS/README.md` | File | Repository file. |
 | `05_NEW_MODULES_INBOX/` | Folder | Inbox for newly collected raw module text before review. |
 | `05_NEW_MODULES_INBOX/module-4/` | Folder | Repository file. |
@@ -81,6 +93,10 @@ This manifest is generated from the repository file tree. It lists the purpose o
 | `07_SYNTHESIS_QUEUE/3.2-synthesis-questions.md` | File | Repository file. |
 | `07_SYNTHESIS_QUEUE/3.3-synthesis-questions.md` | File | Repository file. |
 | `07_SYNTHESIS_QUEUE/4-practical-workspace-toolkit-synthesis-questions.md` | File | Repository file. |
+| `07_SYNTHESIS_QUEUE/5.0-60-30-10-applied-synthesis-questions.md` | File | Repository file. |
+| `07_SYNTHESIS_QUEUE/5.1-the-build-vigilore-synthesis-questions.md` | File | Repository file. |
+| `07_SYNTHESIS_QUEUE/5.2-the-partnership-nlp-logix-synthesis-questions.md` | File | Repository file. |
+| `07_SYNTHESIS_QUEUE/5.3-the-system-underneath-synthesis-questions.md` | File | Repository file. |
 | `07_SYNTHESIS_QUEUE/MODULES_TO_PROCESS.md` | File | Repository file. |
 | `07_SYNTHESIS_QUEUE/QUESTIONS_FOR_SYNTHESIS.md` | File | Repository file. |
 | `07_SYNTHESIS_QUEUE/README.md` | File | Repository file. |

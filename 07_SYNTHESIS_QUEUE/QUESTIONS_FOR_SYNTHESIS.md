@@ -52,3 +52,47 @@ See `4-practical-workspace-toolkit-synthesis-questions.md` for the full Module 4
 - Should the three-layer folder architecture become the canonical RitmaOS workspace model?
 - Should RitmaOS generate CLAUDE.md routing tables automatically?
 - Should naming conventions be treated as a formal indexing primitive?
+
+## Module 5.0 Questions
+
+See `5.0-60-30-10-applied-synthesis-questions.md` for the full Module 5.0 synthesis queue.
+
+- Should 60/30/10 become a first-class RitmaOS diagnostic, or remain an underlying interpretation framework?
+- Should RitmaOS onboarding ask users whether they are entering through build, partnership, or system strategy?
+- How should RitmaOS distinguish infrastructure, orchestration, and AI in user-submitted workflows?
+- Should layer audits produce workspace folders, written specs, pricing guidance, or all three?
+- Should training exercise responses become structured data inside the workspace?
+- What artifacts should be created after a 60/30/10 exercise: layer map, bottleneck list, implementation spec, contract notes, or workspace routing table?
+
+## Module 5.1 Questions
+
+See `5.1-the-build-vigilore-synthesis-questions.md` for the full Module 5.1 synthesis queue.
+
+- Should Applied Ratio Audit become a named RitmaOS workflow?
+- Should Thin Wrapper vs Architectured System become a formal RitmaOS diagnostic?
+- Should RitmaOS require every AI-system audit to start with a component breakdown?
+- Should the product push back when a user assigns more than 15% of a system to AI?
+- Should pricing worksheets live beside architecture maps in the same workspace?
+- What filesystem structure best reveals the 60% and 30% layers before AI is added?
+
+## Module 5.2 Questions
+
+See `5.2-the-partnership-nlp-logix-synthesis-questions.md` for the full Module 5.2 synthesis queue.
+
+- Should RitmaOS include business-structure workflows in the core product, or stay focused on workspace and system architecture?
+- Should Partnership Layer Map become a named RitmaOS workflow?
+- Should Revenue Stream Mapper be part of the same workflow as Partnership Layer Map or a separate product surface?
+- Should in-house cost comparisons become reusable client-facing artifacts?
+- Should orchestration loops be stored as living workflow maps that update after every project?
+- Should "Sell Architecture, Not AI" become a client conversation prep template?
+
+## Module 5.3 Questions
+
+See `5.3-the-system-underneath-synthesis-questions.md` for the full Module 5.3 synthesis queue.
+
+- Should training exercise outputs become a first-class RitmaOS data type?
+- Should 60/30/10 Workflow Audit become a separate workflow from Applied Ratio Audit, or a variant of the same workflow?
+- Should bottleneck diagnoses generate next-build opportunities automatically?
+- Should leverage maps be calculators, markdown worksheets, or both?
+- Should tools-versus-patterns testing become part of onboarding?
+- What filesystem structure best captures repeated bottlenecks and workflow patterns over time?

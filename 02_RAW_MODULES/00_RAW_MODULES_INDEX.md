@@ -23,5 +23,9 @@ This folder preserves raw module text. Do not edit, rewrite, summarize, rename, 
 | 4 | Workflow Starter / Content Pipeline | `4-workflow-starter-content-pipeline.md` | Present |
 | 4 | Workflow Starter / Client Management | `4-workflow-starter-client-management.md` | Present |
 | 4 | Workflow Starter / Code Project | `4-workflow-starter-code-project.md` | Present |
+| 5.0 | The 60/30/10 Applied — Lesson 0: Overview | `5.0-the-60-30-10-applied-lesson-0-overview.md` | Present |
+| 5.1 | Lesson 1.1 The Build — VigilOre / Course Companion | `5.1-the-build-vigilore-course-companion.md` | Present |
+| 5.2 | Lesson 1.2 The Partnership — NLP Logix / Course Companion | `5.2-the-partnership-nlp-logix-course-companion.md` | Present |
+| 5.3 | Lesson 1.3 The System Underneath / Course Companion | `5.3-the-system-underneath-course-companion.md` | Present |
 
 No expected raw modules are currently marked missing.
