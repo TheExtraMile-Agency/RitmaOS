@@ -63,3 +63,14 @@ See `5.0-60-30-10-applied-synthesis-questions.md` for the full Module 5.0 synthe
 - Should layer audits produce workspace folders, written specs, pricing guidance, or all three?
 - Should training exercise responses become structured data inside the workspace?
 - What artifacts should be created after a 60/30/10 exercise: layer map, bottleneck list, implementation spec, contract notes, or workspace routing table?
+
+## Module 5.1 Questions
+
+See `5.1-the-build-vigilore-synthesis-questions.md` for the full Module 5.1 synthesis queue.
+
+- Should Applied Ratio Audit become a named RitmaOS workflow?
+- Should Thin Wrapper vs Architectured System become a formal RitmaOS diagnostic?
+- Should RitmaOS require every AI-system audit to start with a component breakdown?
+- Should the product push back when a user assigns more than 15% of a system to AI?
+- Should pricing worksheets live beside architecture maps in the same workspace?
+- What filesystem structure best reveals the 60% and 30% layers before AI is added?
