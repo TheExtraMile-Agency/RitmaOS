@@ -24,5 +24,6 @@ This folder preserves raw module text. Do not edit, rewrite, summarize, rename, 
 | 4 | Workflow Starter / Client Management | `4-workflow-starter-client-management.md` | Present |
 | 4 | Workflow Starter / Code Project | `4-workflow-starter-code-project.md` | Present |
 | 5.0 | The 60/30/10 Applied — Lesson 0: Overview | `5.0-the-60-30-10-applied-lesson-0-overview.md` | Present |
+| 5.1 | Lesson 1.1 The Build — VigilOre / Course Companion | `5.1-the-build-vigilore-course-companion.md` | Present |
 
 No expected raw modules are currently marked missing.
